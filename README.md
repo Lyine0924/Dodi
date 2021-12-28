@@ -90,3 +90,4 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 
 테스트 리베이스 브랜칭 2
 아유 왤케어렵냐 
+다른 브랜치에서 머징
