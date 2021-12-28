@@ -9,3 +9,6 @@ sync:
 
 gen:
 	needle generate Projects/Dodi/Sources/NeedleGenerated.swift Projects/
+
+pod: 
+	pod install
