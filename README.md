@@ -92,3 +92,4 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 아유 왤케어렵냐 
 피처 브랜치에서 작업
 피처 브랜치에서 작업 2
+다른 브랜치에서 머징
