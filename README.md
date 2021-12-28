@@ -88,4 +88,4 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 <img src="https://github.com/GeekTree0101/Dodi/blob/master/graph.png" />
 > tuist graph -t
 
-다른브랜치에서 작업한거 머징
+다른쪽에서 머지당했다
