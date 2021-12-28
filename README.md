@@ -88,4 +88,4 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 <img src="https://github.com/GeekTree0101/Dodi/blob/master/graph.png" />
 > tuist graph -t
 
-테스트 리베이스 후후후
+테스트 리베이스 마스터
