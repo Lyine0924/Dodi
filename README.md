@@ -90,3 +90,9 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 
 commit 스쿼시
 스쿼시 커밋
+
+스쿼시 1
+
+스쿼시 2
+
+스쿼시 3
