@@ -89,3 +89,5 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 > tuist graph -t
 
 이게 맞나?
+아 어려웡
+헤햏
