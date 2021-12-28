@@ -88,4 +88,4 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 <img src="https://github.com/GeekTree0101/Dodi/blob/master/graph.png" />
 > tuist graph -t
 
-
+이게 맞나?
