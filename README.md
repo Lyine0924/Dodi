@@ -88,5 +88,16 @@ public class ListComponent: Component<ListDependency>, ListBuilder {
 <img src="https://github.com/GeekTree0101/Dodi/blob/master/graph.png" />
 > tuist graph -t
 
-테스트 1
-스파이더맨
+commit 스쿼시
+스쿼시 커밋
+
+gpgp
+헤헤헿
+우후?
+테쇼ㅡ트
+테에스트!
+하하
+우왕
+체리픽 파일 테스트
+
+머지 테스트
