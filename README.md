@@ -7,6 +7,8 @@ medium: https://h2s1880.medium.com/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0
 ```sh
 brew install needle
 bash <(curl -Ls https://install.tuist.io)
+tuist install 1.52.0
+tuist local 1.52.0
 ```
 
 and run
