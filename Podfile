@@ -13,7 +13,7 @@ end
 
 def ui_framework
   pod 'Texture'
-  pod 'BonMot'
+  pod 'BonMot', '~>6.0.0'
   pod 'DeepDiff'
 end
 

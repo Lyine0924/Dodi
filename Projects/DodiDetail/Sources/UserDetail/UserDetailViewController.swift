@@ -14,7 +14,7 @@ protocol UserDetailDisplayLogic: AnyObject {
   func displayDelete(viewModel: UserDetailModel.Delete.ViewModel)
 }
 
-final class UserDetailViewController: UIVIewController {
+final class UserDetailViewController: UIViewController {
 
   // MARK: - Properties
 
@@ -42,7 +42,7 @@ final class UserDetailViewController: UIVIewController {
 
     interactor.presenter = presenter
 
-    presenter.view = viewController
+    presenter.viewController = viewController
 
     router.viewController = viewController
     router.dataStore = interactor
